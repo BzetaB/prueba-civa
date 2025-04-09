@@ -1,0 +1,8 @@
+- Ejecutar el archivo Script.sql para crear la base de datos
+- Crear un archivo local.env para manejar las variables de entorno en el proyecto de SpringBoot (Civa)
+- Usar el puerto 5173 para correr el proyecto de react (Civa-react)
+- Empaquetador: npm 
+- Rutas:
+  - Home: http://localhost:5173
+  - Listado: http://localhost:5173/bus
+  - Bus por Id: http://localhost:5173/bus/1
